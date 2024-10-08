@@ -2,7 +2,7 @@
 "use client";
 import React from 'react';
 
-// /app/week-3/item.js
+
 
 export default function Item({ name, quantity, category }) {
     return (

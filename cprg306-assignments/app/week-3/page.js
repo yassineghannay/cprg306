@@ -1,7 +1,7 @@
 // /app/week-3/page.js
 
 import React from 'react';
-import ItemList from './item-list'; // Default import
+import ItemList from './item-list'; 
 
 export default function Page() {
   return (
